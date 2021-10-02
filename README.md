@@ -2,7 +2,7 @@
 
 ![alt text](https://medcitynews.com/uploads/2019/08/Seattle-e1565293516425.jpg)
 
-Washington state is home to many great sport teams on a proffesional level. Here are some of the top teams in each sport:
+Seattle is home to many great sport teams on a proffesional level. Here are some of the top teams in each sport:
 
 1. NFL 🏈 - [Seattle Seahawks](https://www.seahawks.com/)
 2. MLS ⚽ - [Seattle Sounders](https://www.soundersfc.com/)
