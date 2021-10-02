@@ -1,4 +1,4 @@
-# Welcome to Washington State
+# Welcome to Seattle
 
 ![alt text](https://medcitynews.com/uploads/2019/08/Seattle-e1565293516425.jpg)
 
@@ -22,7 +22,8 @@ Follow along as the seahawks take on the long jouney this season hoping to bring
 
 ## Seahawks Schedule
 
-Home games are labeled blue 🟦 and the away games are labeled in white ⬜. If you would like to attend a home game [click here](https://www.seahawks.com/tickets/)
+Home games are labeled blue 🟦 and the away games are labeled in white ⬜. 
+If you would like to attend a home game [click here](https://www.seahawks.com/tickets/)
 
 ![alt text](https://static.clubs.nfl.com/image/private/t_editorial_landscape_12_desktop/seahawks/m5r5r3y0ebdcd6eqwylo)
 
