@@ -14,3 +14,7 @@ If you would like to attend a home game [click here](https://www.seahawks.com/ti
 
 ![alt text](https://static.clubs.nfl.com/image/private/t_editorial_landscape_12_desktop/seahawks/m5r5r3y0ebdcd6eqwylo)
 
+[Next Page](https://seattle145.github.io/Seattle-Sports/Seattle-Sounders)
+
+[Previous Page](https://seattle145.github.io/Seattle-Sports)
+
