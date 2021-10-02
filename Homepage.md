@@ -11,19 +11,27 @@ Seattle is home to many great sport teams on a proffesional level. Here are some
 
 ----
 
-## Seattle Seahawks
+# Sport Venues
 
-The Seahawks are Super Bowl 48 champions. Ever since they have accomplished many more great titles. In 2020 they were the NFC West Champions.
+### Lumen Field 
+Lumen Field is home to the Seattle Seahawks and Seattle Sounders.
+![alt text](https://static.clubs.nfl.com/image/private/t_editorial_landscape_12_desktop/seahawks/fkbffltpecpnfiwtlru1)
 
-![alt text](https://compote.slate.com/images/6b2a803c-f05f-44cb-9eaa-a1370ad586da.jpg)
+ Throughout the year Lumen Field host mamny other events.
+[Click here](https://www.lumenfield.com/) to check out there wbesite. Its a great place to know about all the upcoming events.
+
+---
+### T-Mobile Park
+
+T-Mobile is home to the Seattle Marniers.
+![alt text](https://stadiumparkingguides.com/wp-content/uploads/2019/11/tmobile_park.jpg)
 
 
-Follow along as the seahawks take on the long jouney this season hoping to bring the trophy back to Seattle.
 
-## Seahawks Schedule
+---
+### Climate Pledge Arena
 
-Home games are labeled blue 🟦 and the away games are labeled in white ⬜. 
-If you would like to attend a home game [click here](https://www.seahawks.com/tickets/)
 
-![alt text](https://static.clubs.nfl.com/image/private/t_editorial_landscape_12_desktop/seahawks/m5r5r3y0ebdcd6eqwylo)
+Climate Pledge Arena is home to the Seattle Krakens.
+![alt text](https://cms.nhl.bamgrid.com/images/photos/317263304/1024x576/cut.jpg)
 
