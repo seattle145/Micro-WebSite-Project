@@ -34,7 +34,7 @@ T-Mobile is home to the Seattle Marniers.
 Climate Pledge Arena is home to the Seattle Krakens.
 ![alt text](https://cms.nhl.bamgrid.com/images/photos/317263304/1024x576/cut.jpg)
 
- [Next Page](https://seattle145.github.io/Seattle-Sports/Seattle-Seahawks)
+[Next Page](https://seattle145.github.io/Seattle-Sports/Seattle-Seahawks)
 
 
 
