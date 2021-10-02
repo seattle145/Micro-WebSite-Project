@@ -1,4 +1,4 @@
-## Seattle Seahawks
+## Seattle Sounders
 
 The Sounders are 2019 MLS Cup Champions. They are one of the top contenders every year. In this 2021 season they are leading the Western Conference currently.
 
