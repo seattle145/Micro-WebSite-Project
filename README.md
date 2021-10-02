@@ -1,47 +1,28 @@
-## Welcome to Washington State
+# Welcome to Washington State
 
 ![alt text](https://medcitynews.com/uploads/2019/08/Seattle-e1565293516425.jpg)
 
 Washington state is home to many great sport teams on a proffesional level. Here are some of the top teams in each sport:
 
-1. NFL 🏈 -  Seattle Seahawks [(click here to go there website)] (https://www.seahawks.com/)
-2. MLS ⚽ - Seattle Sounders [(click here to go there website)] (https://www.soundersfc.com/)
-3. NHL 🏒 - Seattle Krakens [(click here to go there website)] (https://www.nhl.com/kraken)
-4. MLB ⚾ - Seattle Marniers [(click here to go there website)] (https://www.mlb.com/mariners)
+1. NFL 🏈 - [Seattle Seahawks](https://www.seahawks.com/)
+2. MLS ⚽ - [Seattle Sounders](https://www.soundersfc.com/)
+3. NHL 🏒 - [Seattle Krakens](https://www.nhl.com/kraken)
+4. MLB ⚾ - [Seattle Marniers](https://www.mlb.com/mariners)
 
-You can use the [editor on GitHub](https://github.com/seattle145/Micro-WebSite-Project/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+----
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Seattle Seahawks
 
-### Markdown
+The Seahawks are Super Bowl 48 champions. Ever since they have accomplished many more great titles. In 2020 they were the NFC West Champions.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![alt text](https://compote.slate.com/images/6b2a803c-f05f-44cb-9eaa-a1370ad586da.jpg)
 
 
-```markdown
-Syntax highlighted code block
+Follow along as the seahawks take on the long jouney this season hoping to bring the trophy back to Seattle.
 
-# Header 1
-## Header 2
-### Header 3
+## Seahawks Schedule
 
-- Bulleted
-- List
+Home games are labeled blue 🟦 and the away games are labeled in white ⬜. If you would like to attend a home game [click here](https://www.seahawks.com/tickets/)
 
-1. Numbered
-2. List
+![alt text](https://static.clubs.nfl.com/image/private/t_editorial_landscape_12_desktop/seahawks/m5r5r3y0ebdcd6eqwylo)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/seattle145/Micro-WebSite-Project/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
